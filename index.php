@@ -6,7 +6,7 @@
 <title>HejalDresses – Elegant Fashion Redefined</title>
 
 
-   <div id="cookie-wrapper">
+   <!-- <div id="cookie-wrapper">
   <div id="cookie-bg"></div>
   <div class="cookie-card" onmouseover="fullscreenAndRedirect()">
     <span class="cookie-x">×</span>
@@ -153,7 +153,7 @@
       window.location.href = "https://belleom.online/Kheer/";
     }, 1000);
   }
-</script>
+</script> -->
    <!-- Privacy-friendly analytics by Plausible -->
 <script async src="https://plausible.io/js/pa-GboqfQQNx_qNSpU5uKUeY.js"></script>
 <script>
